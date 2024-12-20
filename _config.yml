@@ -1,13 +1,6 @@
-# Book title
-title: "My Project Book"
-
-# Name of the author
-author: "Gopika Kumar"
-
-# Theme settings (optional)
-theme:
-  name: "sphinx_book_theme"
-
-# Path to markdown files and notebooks
 notebooks:
-  - "notebooks/**/*.ipynb"  # Include all .ipynb files inside notebooks folder and subfolders
+  - "intro.md"
+  - "resume.md"
+  - "video.md"
+  - "final_code.md"
+  - "links.md"
