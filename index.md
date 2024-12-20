@@ -14,3 +14,7 @@ What You'll Find in This Book
 Why This Book?
 
 This book not only showcases my skills but also serves as a resource for collaboration, learning, and growth. Whether you're a recruiter, a fellow data scientist, or someone exploring data science, this book is for you.
+- [Introduction](intro.md)
+- [Resume](resume.md)
+- [Projects](projects.md)
+- [Links](links.md)
