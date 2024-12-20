@@ -8,6 +8,6 @@ author: "Gopika Kumar"
 theme:
   name: "sphinx_book_theme"
 
-# Path to markdown files
+# Path to markdown files and notebooks
 notebooks:
-  - "notebooks/*.ipynb"
+  - "notebooks/**/*.ipynb"  # Include all .ipynb files inside notebooks folder and subfolders
